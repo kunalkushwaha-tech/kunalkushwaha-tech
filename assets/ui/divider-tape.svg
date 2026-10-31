@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="30" viewBox="0 0 1000 30" role="presentation" aria-hidden="true">
+<defs><pattern id="st" width="28" height="18" patternUnits="userSpaceOnUse" x="0" y="6">
+<polygon points="14,0 28,0 14,18 0,18" fill="#27272a"/>
+<animate attributeName="x" from="0" to="28" dur="2.4s" repeatCount="indefinite"/></pattern></defs>
+<style>.m{font-family:'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace}</style>
+<rect x="0" y="6" width="1000" height="18" fill="#111113"/>
+<rect x="0" y="6" width="1000" height="18" fill="url(#st)"/>
+<rect x="352" y="3" width="296" height="24" rx="3" fill="#09090b" stroke="#c5a059" stroke-opacity=".6"/>
+<text x="500" y="19" text-anchor="middle" class="m" font-size="10" letter-spacing="3" fill="#c5a059">CASE FILE // DO NOT CROSS</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Case file stamped OPEN, subject Kunal Kushwaha">
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".025"/></pattern></defs>
+<style>
+.m{font-family:'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace}
+.tag{font-size:10px;letter-spacing:2px;fill:#71717a}
+.h{font-size:15px;font-weight:700;fill:#f4f4f5}
+.t{font-size:11px;fill:#a1a1aa}
+.s{font-size:12px;fill:#d4d4d8}
+.k{font-size:10px;letter-spacing:2px;fill:#71717a}
+.v{font-size:14px;fill:#f4f4f5}
+.h2{font-size:12px;font-weight:700;fill:#f4f4f5}
+.q{font-size:12px;font-style:italic;fill:#a1a1aa}
+.gold{fill:#c5a059}
+.soft{fill:#d4d4d8}
+.blink{animation:b 1.1s steps(1) infinite}
+@keyframes b{50%{opacity:0}}
+.dash{stroke-dasharray:5 7;animation:mv 2.4s linear infinite}
+@keyframes mv{to{stroke-dashoffset:-24}}
+@media (prefers-reduced-motion:reduce){.blink,.dash{animation:none}}
+</style>
+<rect width="1000" height="150" rx="12" fill="#09090b"/><rect width="1000" height="150" rx="12" fill="url(#scan)"/>
+<rect x="0" y="0" width="6" height="150" fill="#c5a059"/><text x="40" y="44" class="m tag">SUBJECT FILE  //  STATUS: OPEN</text><text x="40" y="90" class="m" font-size="38" font-weight="700" letter-spacing="3" fill="#f4f4f5">KUNAL KUSHWAHA</text><text x="40" y="122" class="m s">Cybersecurity &amp; Network Security  ·  B.Tech CSE, 2nd year</text><g transform="translate(810 78) rotate(-8)"><rect x="-120" y="-44" width="240" height="88" rx="6" fill="none" stroke="#c5a059" stroke-width="4"/><rect x="-112" y="-36" width="224" height="72" rx="3" fill="none" stroke="#c5a059" stroke-width="1.2" opacity=".7"/><text x="0" y="-18" text-anchor="middle" class="m" font-size="10" letter-spacing="5" fill="#c5a059">CASE FILE</text><text x="0" y="22" text-anchor="middle" class="m" font-size="46" font-weight="700" letter-spacing="9" fill="#c5a059">OPEN</text></g>
+<rect x=".5" y=".5" width="999" height="149" rx="12" fill="none" stroke="#27272a"/>
+</svg>

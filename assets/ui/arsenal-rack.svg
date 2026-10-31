@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="276" viewBox="0 0 1000 276" role="img" aria-label="Field arsenal: offensive security, defensive security, tools, languages and platforms">
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".025"/></pattern></defs>
+<style>
+.m{font-family:'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace}
+.tag{font-size:10px;letter-spacing:2px;fill:#71717a}
+.h{font-size:15px;font-weight:700;fill:#f4f4f5}
+.t{font-size:11px;fill:#a1a1aa}
+.s{font-size:12px;fill:#d4d4d8}
+.k{font-size:10px;letter-spacing:2px;fill:#71717a}
+.v{font-size:14px;fill:#f4f4f5}
+.h2{font-size:12px;font-weight:700;fill:#f4f4f5}
+.q{font-size:12px;font-style:italic;fill:#a1a1aa}
+.gold{fill:#c5a059}
+.soft{fill:#d4d4d8}
+.blink{animation:b 1.1s steps(1) infinite}
+@keyframes b{50%{opacity:0}}
+.dash{stroke-dasharray:5 7;animation:mv 2.4s linear infinite}
+@keyframes mv{to{stroke-dashoffset:-24}}
+@media (prefers-reduced-motion:reduce){.blink,.dash{animation:none}}
+</style>
+<rect width="1000" height="276" rx="12" fill="#09090b"/><rect width="1000" height="276" rx="12" fill="url(#scan)"/>
+<text x="18" y="30" class="m tag gold">FIELD ARSENAL RACK  //  4 PRIMED LOADOUTS</text><rect x="18" y="46" width="232" height="214" rx="8" fill="#18181b" stroke="#27272a"/><path d="M18 55V46H27 M241 46H250V55 M250 251V260H241 M27 260H18V251" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><rect x="36" y="62" width="28" height="3" fill="#c5a059"/><text x="36" y="92" class="m tag soft">OFFENSIVE SECURITY</text><text x="36" y="122" class="m s"><tspan fill="#c5a059">›</tspan> Web app pentesting</text><text x="36" y="144" class="m s"><tspan fill="#c5a059">›</tspan> Network reconnaissance</text><text x="36" y="166" class="m s"><tspan fill="#c5a059">›</tspan> CTF challenges</text><text x="36" y="188" class="m s"><tspan fill="#c5a059">›</tspan> DVWA assessments</text><text x="36" y="210" class="m s"><tspan fill="#c5a059">›</tspan> Bug hunting</text><rect x="262" y="46" width="232" height="214" rx="8" fill="#18181b" stroke="#27272a"/><path d="M262 55V46H271 M485 46H494V55 M494 251V260H485 M271 260H262V251" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><rect x="280" y="62" width="28" height="3" fill="#c5a059"/><text x="280" y="92" class="m tag soft">DEFENSIVE SECURITY</text><text x="280" y="122" class="m s"><tspan fill="#c5a059">›</tspan> Vulnerability assessment</text><text x="280" y="144" class="m s"><tspan fill="#c5a059">›</tspan> Security auditing</text><text x="280" y="166" class="m s"><tspan fill="#c5a059">›</tspan> Threat analysis</text><rect x="506" y="46" width="232" height="214" rx="8" fill="#18181b" stroke="#27272a"/><path d="M506 55V46H515 M729 46H738V55 M738 251V260H729 M515 260H506V251" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><rect x="524" y="62" width="28" height="3" fill="#c5a059"/><text x="524" y="92" class="m tag soft">TOOLS</text><text x="524" y="122" class="m s"><tspan fill="#c5a059">›</tspan> Wireshark</text><text x="524" y="144" class="m s"><tspan fill="#c5a059">›</tspan> Nmap</text><text x="524" y="166" class="m s"><tspan fill="#c5a059">›</tspan> Scapy</text><text x="524" y="188" class="m s"><tspan fill="#c5a059">›</tspan> Burp Suite</text><text x="524" y="210" class="m s"><tspan fill="#c5a059">›</tspan> Kali Linux</text><rect x="750" y="46" width="232" height="214" rx="8" fill="#18181b" stroke="#27272a"/><path d="M750 55V46H759 M973 46H982V55 M982 251V260H973 M759 260H750V251" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><rect x="768" y="62" width="28" height="3" fill="#c5a059"/><text x="768" y="92" class="m tag soft">LANGUAGES &amp; PLATFORMS</text><text x="768" y="122" class="m s"><tspan fill="#c5a059">›</tspan> Python, C, Bash</text><text x="768" y="144" class="m s"><tspan fill="#c5a059">›</tspan> HTML, React, Next.js</text><text x="768" y="166" class="m s"><tspan fill="#c5a059">›</tspan> Three.js</text><text x="768" y="188" class="m s"><tspan fill="#c5a059">›</tspan> GitHub, Vercel</text><text x="768" y="210" class="m s"><tspan fill="#c5a059">›</tspan> Power BI, Figma, Canva</text><text x="768" y="232" class="m s"><tspan fill="#c5a059">›</tspan> Arduino</text>
+<rect x=".5" y=".5" width="999" height="275" rx="12" fill="none" stroke="#27272a"/>
+</svg>

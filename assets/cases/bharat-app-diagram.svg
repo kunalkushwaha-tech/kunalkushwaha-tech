@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Bharat App system diagram: safety, security tools, civic help and AI companion modules">
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".025"/></pattern></defs>
+<style>
+.m{font-family:'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace}
+.tag{font-size:10px;letter-spacing:2px;fill:#71717a}
+.h{font-size:15px;font-weight:700;fill:#f4f4f5}
+.t{font-size:11px;fill:#a1a1aa}
+.s{font-size:12px;fill:#d4d4d8}
+.k{font-size:10px;letter-spacing:2px;fill:#71717a}
+.v{font-size:14px;fill:#f4f4f5}
+.h2{font-size:12px;font-weight:700;fill:#f4f4f5}
+.q{font-size:12px;font-style:italic;fill:#a1a1aa}
+.gold{fill:#c5a059}
+.soft{fill:#d4d4d8}
+.blink{animation:b 1.1s steps(1) infinite}
+@keyframes b{50%{opacity:0}}
+.dash{stroke-dasharray:5 7;animation:mv 2.4s linear infinite}
+@keyframes mv{to{stroke-dashoffset:-24}}
+@media (prefers-reduced-motion:reduce){.blink,.dash{animation:none}}
+</style>
+<rect width="1000" height="360" rx="12" fill="#09090b"/><rect width="1000" height="360" rx="12" fill="url(#scan)"/>
+<text x="18" y="30" class="m tag gold">SYSTEM DIAGRAM  //  BHARAT APP</text><line class="dash" x1="400" y1="168" x2="340" y2="112" stroke="#c5a059" stroke-width="1.5" opacity=".7"/><line class="dash" x1="600" y1="168" x2="660" y2="112" stroke="#c5a059" stroke-width="1.5" opacity=".7"/><line class="dash" x1="400" y1="212" x2="340" y2="278" stroke="#c5a059" stroke-width="1.5" opacity=".7"/><line class="dash" x1="600" y1="212" x2="660" y2="278" stroke="#c5a059" stroke-width="1.5" opacity=".7"/><rect x="30" y="48" width="310" height="132" rx="8" fill="#18181b" stroke="#27272a"/><path d="M30 57V48H39 M331 48H340V57 M340 171V180H331 M39 180H30V171" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><text x="48" y="76" class="m tag gold">SAFETY &amp; AWARENESS</text><text x="48" y="102" class="m s"><tspan fill="#c5a059">›</tspan> PanicMode</text><text x="48" y="122" class="m s"><tspan fill="#c5a059">›</tspan> Cyber Awareness Academy</text><text x="48" y="142" class="m s"><tspan fill="#c5a059">›</tspan> Community Scam Alerts</text><rect x="660" y="48" width="310" height="132" rx="8" fill="#18181b" stroke="#27272a"/><path d="M660 57V48H669 M961 48H970V57 M970 171V180H961 M669 180H660V171" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><text x="678" y="76" class="m tag gold">SECURITY TOOLS</text><text x="678" y="102" class="m s"><tspan fill="#c5a059">›</tspan> HIBP k-Anonymity breach check</text><text x="678" y="122" class="m s"><tspan fill="#c5a059">›</tspan> XposedOrNot breach check</text><text x="678" y="142" class="m s"><tspan fill="#c5a059">›</tspan> Google Safe Browsing link check</text><text x="678" y="162" class="m s"><tspan fill="#c5a059">›</tspan> Web Crypto API</text><rect x="30" y="214" width="310" height="132" rx="8" fill="#18181b" stroke="#27272a"/><path d="M30 223V214H39 M331 214H340V223 M340 337V346H331 M39 346H30V337" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><text x="48" y="242" class="m tag gold">CIVIC HELP</text><text x="48" y="268" class="m s"><tspan fill="#c5a059">›</tspan> Complaints &amp; Grievances</text><text x="48" y="288" class="m s"><tspan fill="#c5a059">›</tspan> Scheme Eligibility Finder</text><text x="48" y="308" class="m s"><tspan fill="#c5a059">›</tspan> Maps: Leaflet + OpenStreetMap</text><rect x="660" y="214" width="310" height="132" rx="8" fill="#18181b" stroke="#27272a"/><path d="M660 223V214H669 M961 214H970V223 M970 337V346H961 M669 346H660V337" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><text x="678" y="242" class="m tag gold">AI COMPANION</text><text x="678" y="268" class="m s"><tspan fill="#c5a059">›</tspan> Powered by Groq</text><text x="678" y="288" class="m s"><tspan fill="#c5a059">›</tspan> Privacy-first by design:</text><text x="678" y="308" class="m s"><tspan fill="#c5a059">›</tspan> no OSINT or tracking tools</text><rect x="400" y="142" width="200" height="96" rx="8" fill="#18181b" stroke="#27272a"/><path d="M400 151V142H409 M591 142H600V151 M600 229V238H591 M409 238H400V229" fill="none" stroke="#c5a059" stroke-width="1.5" opacity=".85"/><text x="500" y="182" text-anchor="middle" class="m" font-size="18" font-weight="700" letter-spacing="2" fill="#c5a059">BHARAT APP</text><text x="500" y="204" class="m s" text-anchor="middle">smartbharat.me</text><text x="500" y="222" class="m t" text-anchor="middle">Next.js · Vercel</text>
+<rect x=".5" y=".5" width="999" height="359" rx="12" fill="none" stroke="#27272a"/>
+</svg>

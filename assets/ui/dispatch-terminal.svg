@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Dispatch channels: email, LinkedIn, GitHub, Instagram">
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".025"/></pattern></defs>
+<style>
+.m{font-family:'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace}
+.tag{font-size:10px;letter-spacing:2px;fill:#71717a}
+.h{font-size:15px;font-weight:700;fill:#f4f4f5}
+.t{font-size:11px;fill:#a1a1aa}
+.s{font-size:12px;fill:#d4d4d8}
+.k{font-size:10px;letter-spacing:2px;fill:#71717a}
+.v{font-size:14px;fill:#f4f4f5}
+.h2{font-size:12px;font-weight:700;fill:#f4f4f5}
+.q{font-size:12px;font-style:italic;fill:#a1a1aa}
+.gold{fill:#c5a059}
+.soft{fill:#d4d4d8}
+.blink{animation:b 1.1s steps(1) infinite}
+@keyframes b{50%{opacity:0}}
+.dash{stroke-dasharray:5 7;animation:mv 2.4s linear infinite}
+@keyframes mv{to{stroke-dashoffset:-24}}
+@media (prefers-reduced-motion:reduce){.blink,.dash{animation:none}}
+</style>
+<rect width="1000" height="290" rx="12" fill="#09090b"/><rect width="1000" height="290" rx="12" fill="url(#scan)"/>
+<circle cx="30" cy="28" r="6" fill="#3f3f46"/><circle cx="52" cy="28" r="6" fill="#3f3f46"/><circle cx="74" cy="28" r="6" fill="#3f3f46"/><text x="500" y="33" class="m tag" text-anchor="middle">open comms transceiver</text><line x1="0" y1="52" x2="1000" y2="52" stroke="#27272a"/><text x="48" y="92" class="m s gold">&gt; OPEN CHANNEL</text><text x="48" y="128" class="m k">EMAIL</text><text x="190" y="128" class="m v">kunalkushwaha740@gmail.com</text><text x="48" y="158" class="m k">LINKEDIN</text><text x="190" y="158" class="m v">linkedin.com/in/kunal-kushwaha-a3b81637b</text><text x="48" y="188" class="m k">GITHUB</text><text x="190" y="188" class="m v">github.com/kunalkushwaha-tech</text><text x="48" y="218" class="m k">INSTAGRAM</text><text x="190" y="218" class="m v">@thakur__kunal_kushwaha</text><text x="48" y="262" class="m q">&gt; "In a world full of vulnerabilities, be the patch."<tspan class="blink" fill="#c5a059"> █</tspan></text>
+<rect x=".5" y=".5" width="999" height="289" rx="12" fill="none" stroke="#27272a"/>
+</svg>
