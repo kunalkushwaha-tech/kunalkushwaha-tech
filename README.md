@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-kunalkushwaha--tech-121215?style=flat-square&logo=github&logoColor=f4f4f5)](https://github.com/kunalkushwaha-tech) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-kunal--kushwaha-121215?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kunal-kushwaha-a3b81637b) [![Instagram](https://img.shields.io/badge/INSTAGRAM-thakur____kunal__kushwaha-121215?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/thakur__kunal_kushwaha) ![Email](https://img.shields.io/badge/DISPATCH-EMAIL-121215?style=flat-square&logo=gmail&logoColor=EA4335)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=kunalkushwaha-tech&icon=6&color=12)
+![Profile Views](https://komarev.com/ghpvc/?username=kunalkushwaha-tech&label=PROFILE+VIEWS&color=c5a059&style=flat-square)
 
 </div>
 
@@ -90,9 +90,9 @@
 
 *Commit activity, streak and language distribution*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kunalkushwaha-tech&show_icons=true&theme=github_dark&bg_color=09090b&title_color=f4f4f5&text_color=a1a1aa&icon_color=d4d4d8&border_color=27272a&hide_border=false&include_all_commits=true&count_private=true) ![Streak](https://streak-stats.demolab.com/?user=kunalkushwaha-tech&theme=dark&background=09090B&stroke=27272a&ring=c5a059&fire=c5a059&currStreakLabel=f4f4f5&sideLabels=a1a1aa&sideNums=f4f4f5&dates=71717a&hide_border=false)
+![Telemetry: commits, contributions and streak](assets/stats/telemetry.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkushwaha-tech&layout=compact&theme=github_dark&bg_color=09090b&title_color=f4f4f5&text_color=a1a1aa&border_color=27272a&hide_border=false)
+![Language distribution](assets/stats/languages.svg)
 
 ![Evidence Tape](assets/ui/divider-tape.svg)
 
